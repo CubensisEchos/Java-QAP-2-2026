@@ -2,14 +2,13 @@
 
 ##QAP questions
 1. 5-10 hours
-2. Stack overflow, and youtube(mostly just my own knowledge though)
+2. Stack overflow, lectures, and youtube
 3. No
 4. No
 5. i)   1/5
    ii)  1/5
-   iii) 1/5
-   iv)  2/5 (annoying more than difficult)
+   iii) 2/5
+   iv)  2/5
 
 ##Notes
 I added System.out.println(); in a few spots just for console reading clarity(I use a 1440p display so it makes a big difference it have some spaces).
-You could have at least change the American stuff to Canadian, we don't have ZIP codes or states. The format of a ZIP code is also differnet than a Postal code(would be good to teach as some sites don't properly accept both).
